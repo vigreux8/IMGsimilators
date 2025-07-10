@@ -1,6 +1,7 @@
 Voici la correction du texte avec des fautes corrigées :
 
 ---
+# allez voire la doc visuelle pour comprendre comment utiliser l'espace de travaille
 
 # Bibliothèque utilisée 
 
@@ -49,4 +50,5 @@ Plus le nombre d'expériences est élevé, plus le score de similitude de notre 
 Plus on se rapproche de 0, plus le jeu de données contient des images sensiblement différentes.
 - EXPERIENCE_SCORE_SIMILITUDE = True
 - NB_EXPERIENCE_SIMILITUDE = 100
+# IMGsimilators
 # IMGsimilators
